@@ -1,7 +1,7 @@
 # Analisis-de-gastos-pipeline
 Proceso que saca datos claves sobre gastos, desde correos electrónicos, los analiza con IA y sube a una hoja de cálculo a google sheets.
 
-📧 Email Invoice Processor → Google Sheets.
+📧 Email Invoice Processor → Google Sheets.  
 Este proyecto automatiza la lectura de correos electrónicos con facturas, extrae información relevante usando LLMs vía Ollama, procesa los datos y los carga automáticamente en Google Sheets para llevar control de gastos.
 Está pensado principalmente para correos de facturación (por ejemplo, notificaciones de compras) recibidos en Gmail, pero puede adaptarse a otros proveedores IMAP.
 🚀 Funcionalidades principales
